@@ -56,13 +56,7 @@
 
 ---
 
-## 💻 Most Used Languages
 
-<p align="center">
-  
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
