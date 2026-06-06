@@ -51,8 +51,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rao0898&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Rao0898&theme=tokyonight&hide_border=true"/>
+ 
 </p>
 
 ---
@@ -60,7 +59,7 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rao0898&layout=compact&theme=tokyonight&hide_border=true"/>
+  
 </p>
 
 ---
@@ -68,7 +67,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rao0898&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  
 </p>
 
 ---
@@ -84,7 +83,7 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rao0898&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  
 </p>
 
 ---
